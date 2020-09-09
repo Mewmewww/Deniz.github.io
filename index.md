@@ -13,7 +13,7 @@ My name is Deniz Yandim, a 20 year old student here in Næstved who lives in Vor
 
 ![image](https://media.discordapp.net/attachments/337719202750136332/753220191273353287/unknown.png)
 
-_**Datalogi was awful**_ - having spent an entire year there, and me not knowing there were branches of Computer Science - I mistakenly thought that Datalogi was going to be my life from then to death. Datalogi however, heavily focused on Discrete Mathematics, complex Algebra and very limited amount of programmming. The studies there were mind-boggling (in a bad way), and I was on the edge of never choosing Computer Science again. However, I was in contact with a friend of mine from the United Kingdoms, and he elaborated that Computer Science isn't a singular course - there are a plethora of branches under the exact same name. Knowing this now, I decided to choose Datamatiker as something I wanted to attempt, and I managed to recieve a spot for the course. 
+_**Datalogi was awful**_ - having spent an entire year there, and me not knowing there were branches of Computer Science - I mistakenly thought that Datalogi was going to be my life from then till the end. Datalogi however, heavily focused on Discrete Mathematics, complex Algebra, lack of practical usage or "hands-on approach" as well as very limited amount of programmming. The studies and the work-load there were mind-boggling (in a bad way), and I was on the edge of never choosing Computer Science again. However, I was in contact with a friend of mine from the United Kingdoms, and he elaborated that Computer Science isn't a singular course - there are a plethora of branches under the exact same name. Knowing this now, I decided to choose Datamatiker as something I wanted to attempt, and I managed to recieve a spot for the course. 
 
 # _On the day_
 
@@ -53,7 +53,7 @@ Additionally, we also worked out how to print out a properly looking table, with
 Being able to have on-hand assignments and work-schedules, than being over-burdened with theoretical examples have been such an enjoyable experience. 
 
 # Present
-Now we're at the present, enjoying myself with like-minded individuals who share a plethora of hobbies like my own - with teachers that are very practical in their teaching, who understands the importance of theory as well as practical work. Having worked on the recently released assignment (e.g. the snippets mentioned above), I have high expectations that this is what I believe I will continue doing to the very end. 
+Now we're at the present, enjoying myself with like-minded individuals who share a plethora of hobbies like my own - with teachers that are very practical in their teaching, who understands the importance of theory as well as practical work. Having worked on our recently released assignment (e.g. the snippets mentioned above), I have high expectations that this is what I believe I will continue doing until the very end. 
 
 ![image](https://media.discordapp.net/attachments/337719202750136332/753227489492598874/unknown.png)
 
