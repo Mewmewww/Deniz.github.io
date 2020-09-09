@@ -2,7 +2,7 @@
 
 ### Introduction week! Create a compelling website!
 
-![Image](IMG_20190719_162451.png)
+https://imgur.com/a/K9qOwZU
 
 
 
