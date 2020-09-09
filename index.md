@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Github page - featuring the most interesting lines of code.
 
-You can use the [editor on GitHub](https://github.com/Mewmewww/Deniz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction week! Create a compelling website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```Who am I?
+A new student that has a compelling background in virtually nothing!
+My full name is **Deniz Yandim** and I'm a 20 year old, recent applicant for the course, "Computer science" 
 
 # Header 1
 ## Header 2
